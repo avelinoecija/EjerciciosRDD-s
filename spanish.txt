@@ -1,0 +1,8 @@
+GRX,FgcaLorca,Granada
+MAD,Asuarez,Madrid 
+GRX,FgcaLorca,Granada
+MAD,Asuarez,Madrid 
+GRX,FgcaLorca,Granada
+MAD,Asuarez,Madrid 
+GRX,FgcaLorca,Granada
+MAD,Asuarez,Madrid 
